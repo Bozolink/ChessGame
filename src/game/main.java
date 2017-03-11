@@ -7,8 +7,7 @@ public class main {
 <<<<<<< HEAD
 		//this is a test
 =======
-		//test test test lauchlan
-		//testing for in-sublime sync
+
 >>>>>>> origin/test
 	}
 
